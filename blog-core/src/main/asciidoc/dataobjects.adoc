@@ -1,0 +1,77 @@
+= Cheatsheets
+
+[[Article]]
+== Article
+
+++++
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[article_content_pos]]`article_content_pos`|`String`|-
+|[[article_id]]`article_id`|`String`|-
+|[[article_name]]`article_name`|`String`|-
+|[[category]]`category`|`link:dataobjects.html#Category[Category]`|-
+|[[content]]`content`|`String`|-
+|[[create_time]]`create_time`|`Number (Long)`|-
+|[[read_num]]`read_num`|`Number (Integer)`|-
+|[[tags]]`tags`|`Array of link:dataobjects.html#Tag[Tag]`|-
+|[[update_time]]`update_time`|`Number (Long)`|-
+|===
+
+[[Category]]
+== Category
+
+++++
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[category_id]]`category_id`|`String`|-
+|[[category_name]]`category_name`|`String`|-
+|[[create_time]]`create_time`|`Number (Long)`|-
+|[[update_time]]`update_time`|`Number (Long)`|-
+|===
+
+[[Comment]]
+== Comment
+
+++++
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[article_id]]`article_id`|`String`|-
+|[[comment_content]]`comment_content`|`String`|-
+|[[comment_id]]`comment_id`|`String`|-
+|[[create_time]]`create_time`|`Number (Long)`|-
+|[[user_mail]]`user_mail`|`String`|-
+|[[user_name]]`user_name`|`String`|-
+|===
+
+[[Tag]]
+== Tag
+
+++++
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[create_time]]`create_time`|`Number (Long)`|-
+|[[tag_id]]`tag_id`|`String`|-
+|[[tag_name]]`tag_name`|`String`|-
+|[[update_time]]`update_time`|`Number (Long)`|-
+|===
+

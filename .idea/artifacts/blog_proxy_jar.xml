@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact name="blog-proxy:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="root">
+      <element id="archive" name="blog-proxy.jar">
+        <element id="module-output" name="blog-proxy" />
+      </element>
+      <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+      <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec-http:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-hazelcast:3.5.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.5" />
+      <element id="library" level="project" name="Maven: org.mvel:mvel2:2.3.1.Final" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-jdbc-client:3.5.2" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec-dns:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-resolver-dns:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.11" />
+      <element id="library" level="project" name="Maven: io.netty:netty-resolver:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+      <element id="library" level="project" name="Maven: io.netty:netty-common:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-handler-proxy:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-auth-common:3.5.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.5" />
+      <element id="library" level="project" name="Maven: com.hazelcast:hazelcast:3.8.2" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-codegen:processor:3.5.2" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-web:3.5.2" />
+      <element id="library" level="project" name="Maven: io.netty:netty-transport:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: io.netty:netty-handler:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-redis-client:3.5.2" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-service-proxy:processor:3.5.2" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-bridge-common:3.5.2" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec-socks:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-core:3.5.2" />
+      <element id="library" level="project" name="Maven: io.vertx:vertx-sql-common:3.5.2" />
+      <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec-http2:4.1.19.Final" />
+      <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:3.1.0" />
+    </root>
+  </artifact>
+</component>

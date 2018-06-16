@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for blog-core" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="outputDirectory" value="$PROJECT_DIR$/blog-core/src/main" />
+        <processor name="io.vertx.codegen.CodeGenProcessor" />
+        <module name="blog-core" />
+      </profile>
+      <profile name="Annotation profile for blog-proxy" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="outputDirectory" value="$PROJECT_DIR$/blog-proxy/src/main" />
+        <processor name="io.vertx.codegen.CodeGenProcessor" />
+        <module name="blog-proxy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blog-core" target="1.8" />
+      <module name="blog-proxy" target="1.8" />
+      <module name="blogproxy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.vertx:vertx-service-proxy:processor:3.5.2">
+    <CLASSES>
+      <root url="jar:///software/mvn_repo/io/vertx/vertx-service-proxy/3.5.2/vertx-service-proxy-3.5.2-processor.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///software/mvn_repo/io/vertx/vertx-service-proxy/3.5.2/vertx-service-proxy-3.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///software/mvn_repo/io/vertx/vertx-service-proxy/3.5.2/vertx-service-proxy-3.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
